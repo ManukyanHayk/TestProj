@@ -5,7 +5,7 @@ package com.dev.edo;
  */
 public class TestItOut {
     public static void main(String[] args) {
-        System.out.println("blah");
+        System.out.println("long live!!");
 
     }
 }
